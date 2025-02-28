@@ -1,3 +1,3 @@
 ### Pages:
 
-https://octopicsus.github.io/js18/
+https://octopicsus.github.io/js18/build/
