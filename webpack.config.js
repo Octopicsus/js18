@@ -86,7 +86,7 @@ export default {
     new HtmlWebpackPlugin({
       template: "./src/index.ejs",
       title: "Settings Menu",
-      favicon: "./src/img/favicon.ico",
+      favicon: "./src/img/game.ico",
     }),
     new ESLintPlugin({
       fix: true,
